@@ -1,0 +1,5 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "bigdata/bin/python3",
+    "git.ignoreLimitWarning": true
+}
